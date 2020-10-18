@@ -1,20 +1,6 @@
 {
-<<<<<<< HEAD
-    "name": "node-red-project",
-    "description": "A Node-RED Project",
-    "version": "0.0.1",
-    "private": true,
-    "node-red": {
-        "settings": {
-            "flowFile": "flows.json",
-            "credentialsFile": "flows_cred.json"
-        }
-    }
-}
-=======
  "name": "node-red-project",
  "description": "Un proyecto Node-RED",
  "version": "0.0.1",
  "private": true
 }
->>>>>>> 9434b0854330941e3b980553ca992471dc669f97
